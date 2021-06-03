@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Names of all the knights and burgesses in the House of Parl. Nov. 3. 1640</title>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52419</idno><idno type="EEBO-CITATION">12112303</idno>
+  <idno type="VID">54225</idno>
+  <idno type="EEBO-PROQUEST">2240918662</idno>
+  
+            <idno type="STC">Wing N125</idno>
+            <idno type="STC">ESTC R18641</idno>
+            <idno type="OCLC">12112303</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54225)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Names of all the knights and burgesses in the House of Parl. Nov. 3. 1640</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654 [i.e. 1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Probably printed in 1659, shortly before the Long Parliament was recalled.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Registers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_members">
+            <pb facs="tcp:54225:1"/>
+            <list>
+               <head>The names of all the Knights and Burgesses in the House of Parl: <hi>Nov. 3. 1640.</hi>
+               </head>
+               <item>Will: Lenthall</item>
+               <item>Benchamp St. John.</item>
+               <item>Gilbert Gerrard</item>
+               <item>Walter Earl</item>
+               <item>James Cambel</item>
+               <item>Thomas Check</item>
+               <item>Robert Nicholas</item>
+               <item>Benjamin Rudyard</item>
+               <item>John Gurdon</item>
+               <item>Robert Harley</item>
+               <item>Francis Knollys</item>
+               <item>Edward Master</item>
+               <item>John White</item>
+               <item>Anthony Stapley</item>
+               <item>Dennis Bond</item>
+               <item>Laurence Whitaker</item>
+               <item>Michael Noble</item>
+               <item>Peregrine Hoby</item>
+               <item>William Cawley</item>
+               <item>John Moyl</item>
+               <item>John Pyne</item>
+               <item>George Searl</item>
+               <item>Henry Vane, <hi>senior.</hi>
+               </item>
+               <item>Nevil Pool</item>
+               <item>John Young</item>
+               <item>Thomas Sandis</item>
+               <item>William Jesson</item>
+               <item>Philip Herbert</item>
+               <item>Martin Lumley</item>
+               <item>John Trevor</item>
+               <item>Francis Godolphin</item>
+               <item>Thomas Arundel</item>
+               <item>Edward Stephens</item>
+               <item>Gilbert Pickering</item>
+               <item>John Greve</item>
+               <item>Henry Vane <hi>junior.</hi>
+               </item>
+               <item>Richard Erisey</item>
+               <item>Philip Lisle</item>
+               <item>Wil: Heveningham</item>
+               <item>Isaac Pennington</item>
+               <item>Rich: Cresheld</item>
+               <item>Thomas Pelham</item>
+               <item>Thomas Parker</item>
+               <item>John Leigh</item>
+               <item>John Harris</item>
+               <item>Walter-Young</item>
+               <item>Augustine Skinner</item>
+               <item>John Ven</item>
+               <item>Will: Strikland</item>
+               <item>John Franklin</item>
+               <item>Samuel Brown</item>
+               <item>Robert Seawen</item>
+               <item>Roger Hill</item>
+               <item>John Button</item>
+               <item>John Meyrick</item>
+               <item>Ambrose Brown</item>
+               <item>Richard Win</item>
+               <item>Edw: Owner</item>
+               <item>Charls Pim</item>
+               <item>Charls Cranborn</item>
+               <item>Benj: Westen</item>
+               <item>John Nutt</item>
+               <item>John Corbet</item>
+               <item>Roger Burgoyn</item>
+               <item>Peter Temple</item>
+               <item>Benja: Valentine</item>
+               <item>Thomas Walsingham</item>
+               <item>Oliver Luke</item>
+               <item>William Allenson</item>
+               <item>Humph: Salwey</item>
+               <item>Richard Moor</item>
+               <item>Will: Ashurst</item>
+               <item>Thomas Moore</item>
+               <item>Thomas Fountain</item>
+               <item>Wil: Ellys</item>
+               <item>Henry Shelley</item>
+               <item>Rich Shutleworth</item>
+               <item>George Gallop</item>
+               <item>Henry Ludlow</item>
+               <item>Robert Wallop</item>
+               <item>Arthur Hasilrig</item>
+               <item>Oliver St. John</item>
+               <item>Tho. Grantham</item>
+               <item>Fran: Barnham</item>
+               <item>Wil: Fiez-williams</item>
+               <item>Edmund Dunch</item>
+               <item>Henry Mildmay</item>
+               <item>Hugh Rogers</item>
+               <item>Thomas Hatcher</item>
+               <item>John Wray</item>
+               <item>Simon D' Ewes</item>
+               <item>Antho: Benningfield</item>
+               <item>John Ash</item>
+               <item>Wil. Munsun</item>
+               <item>Martin Lifter</item>
+               <item>Robert Goodwin</item>
+               <item>Edward Thomas</item>
+               <item>Henry Lucas</item>
+               <item>Miles Corbet</item>
+               <item>Philip Smith</item>
+               <item>Cornelius Holland</item>
+               <item>Wil: Spurstow</item>
+               <item>John Lowrey</item>
+               <item>Peter Wentworth</item>
+               <item>Henry Cholmley</item>
+               <item>Phil: Stapleton</item>
+               <item>Wil: Berrepoint</item>
+               <item>Roger North</item>
+               <item>Alex Popham</item>
+               <item>Thomas Hodges</item>
+               <item>John Maynard</item>
+               <pb n="2" facs="tcp:54225:2"/>
+               <item>Sam. Vassal</item>
+               <item>Anthony Irby</item>
+               <item>John Clotworthy</item>
+               <item>John Broxolme</item>
+               <item>Richard Jervoise</item>
+               <item>John Blackistone</item>
+               <item>Walter Long</item>
+               <item>John Waddon</item>
+               <item>William Masham</item>
+               <item>John Lisle</item>
+               <item>Edmund Fowel</item>
+               <item>Edward Ash</item>
+               <item>Thomas Pury</item>
+               <item>Richard Whitehead</item>
+               <item>Richard Jennings</item>
+               <item>Humphrey Tufton</item>
+               <item>Thomas Da<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res</item>
+               <item>Thomas Earle</item>
+               <item>John Downes</item>
+               <item>John Goodwin</item>
+               <item>Francis Drake</item>
+               <item>Wil. Waller</item>
+               <item>Francis Buller</item>
+               <item>Richard Harman</item>
+               <item>Arthur Onslow</item>
+               <item>Rich. Winwood</item>
+               <item>Rob. Pye</item>
+               <item>Henry Grey</item>
+               <item>Richard Knightly</item>
+               <item>John Pim</item>
+               <item>Christopher Yelverton</item>
+               <item>Anthony Nicolls</item>
+               <item>Robert Reynolds</item>
+               <item>Nathaniel Barnardiston</item>
+               <item>Henry Heyman</item>
+               <item>William Puresey</item>
+               <item>Valentine Walton</item>
+               <item>Michael Oldsworth</item>
+               <item>William Wheeler</item>
+               <item>Paul Ravenscroft</item>
+               <item>Thomas Grey</item>
+               <item>Thomas Middleton</item>
+               <item>Edward Hungerford</item>
+               <item>Richard Lee</item>
+               <item>Harley Morley</item>
+               <item>Thomas Lane</item>
+               <item>Robert Cecil</item>
+               <item>William Bell</item>
+               <item>Thomas Soam</item>
+               <item>Harbot Grimstone</item>
+               <item>Simon Snow</item>
+               <item>John Mash</item>
+               <item>Ralph Ash<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</item>
+               <item>John Wilde</item>
+               <item>John Trenchard</item>
+               <item>Thomas Jervoise</item>
+               <item>Richard Brown</item>
+               <item>William Playters</item>
+               <item>Nat. Stephens</item>
+               <item>Richard Rose</item>
+               <item>Francis Rous</item>
+               <item>Gilb. Millington</item>
+               <item>John Brown</item>
+               <item>John Hippisley</item>
+               <item>Edward Pool</item>
+               <item>Henry Pelham</item>
+               <item>William Hay</item>
+               <item>John Driden</item>
+               <item>Nat. Henes</item>
+               <item>William Litton</item>
+               <item>John Harvey</item>
+               <item>Edward Dowce</item>
+               <item>William St<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oad</item>
+               <item>Edmund Pridea<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>Thomas Hoyl</item>
+               <item>Edward Exton</item>
+               <item>Zouch Tate</item>
+               <item>John Curson</item>
+               <item>Alexander Bence</item>
+               <item>John Glyn</item>
+               <item>Richard Onslow</item>
+               <item>John Cook</item>
+               <item>Thomas Wenman</item>
+               <item>Bulstrode Whitlock</item>
+               <item>George Mountague</item>
+               <item>Edward Patriche</item>
+               <item>Henry Campion</item>
+               <item>William Whitaker</item>
+               <item>Denzil Hollis</item>
+               <item>Edward Wingate</item>
+               <item>James Fenys</item>
+               <item>Poynings Moore</item>
+               <item>Edward Bish</item>
+               <item>Wil. Jephson</item>
+               <item>Edward Mountagne</item>
+               <item>Walter Knatchboll</item>
+               <item>Thomas Eden</item>
+               <item>Samuel Luke</item>
+               <item>Simon Maine</item>
+               <item>William Drake</item>
+               <item>Francis Drake</item>
+               <item>Thomas Harrison</item>
+               <item>Rich. Ingoldsby</item>
+               <item>Francis Pile</item>
+               <item>Daniel Blagrave</item>
+               <item>John Ball</item>
+               <item>Robert Packer</item>
+               <item>Hugh Buskawun</item>
+               <item>Nicholas Trefusus</item>
+               <item>Thomas Gewen</item>
+               <item>Thomas Povey</item>
+               <item>John Rolls</item>
+               <item>Thomas Penross</item>
+               <item>John Thomas</item>
+               <item>John Thynne</item>
+               <item>Henry Wylles</item>
+               <item>William Sey</item>
+               <item>John Arundel</item>
+               <item>John Bampfield</item>
+               <item>Thomas Trevor</item>
+               <item>John Carew</item>
+               <item>Lionel Copley</item>
+               <item>John Fielder</item>
+               <item>Nicholas Go'd</item>
+               <item>John Moyl, <hi>junior.</hi>
+               </item>
+               <item>William Priestly</item>
+               <item>Edward Clinton</item>
+               <item>William Ermyn</item>
+               <item>Rich. Talson</item>
+               <item>Rich. Barveys</item>
+               <item>Thomas Chomley</item>
+               <item>Francis Allen</item>
+               <item>Dudley North</item>
+               <item>Francis Russel</item>
+               <item>Nathaniel Bacon</item>
+               <item>George Booth</item>
+               <item>Wil. Edwards</item>
+               <item>John Ratcliff</item>
+               <item>Iohn Curson</item>
+               <item>William Alestree</item>
+               <item>Nath. Hallowes</item>
+               <item>Thomas Gell</item>
+               <item>Samuel Rolls</item>
+               <item>Nicholas Martin</item>
+               <item>Samuel Clark</item>
+               <item>Philip Skippon</item>
+               <item>Iohn Dodderidge</item>
+               <item>Hugh Potter</item>
+               <item>Richard Strode</item>
+               <item>Eliezar Crimes</item>
+               <pb n="3" facs="tcp:54225:2"/>
+               <item>Thomas Boon</item>
+               <item>George Hartnel</item>
+               <item>Iohn Elford</item>
+               <item>Robert Shapcot</item>
+               <item>Iohn Nor<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hcot</item>
+               <item>Iohn Pine</item>
+               <item>George Scut</item>
+               <item>Thomas Trenchard</item>
+               <item>Richard Rose</item>
+               <item>Matthew Allet</item>
+               <item>Will. Sidenham, <hi>junior.</hi>
+               </item>
+               <item>Iohn Bond</item>
+               <item>Thomar Celye</item>
+               <item>William Whitaker</item>
+               <item>Iohn Fry</item>
+               <item>Iohn Bingham</item>
+               <item>Iohn Trenchard</item>
+               <item>Francis Chetel</item>
+               <item>Harbottle Grimstone</item>
+               <item>Iohn Sayer</item>
+               <item>Capel Luckyn</item>
+               <item>Iohn Seymer</item>
+               <item>Iohn Lenthal</item>
+               <item>Iohn George</item>
+               <item>Iohn Stephens</item>
+               <item>Abraham Burrel</item>
+               <item>Richard Ienni<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs</item>
+               <item>Wil. Leman</item>
+               <item>Edmund Harley</item>
+               <item>Edmund Weaver</item>
+               <item>Bennet Hoskins</item>
+               <item>Robert Andrews</item>
+               <item>Wil. Crowther</item>
+               <item>Walter Kirke</item>
+               <item>Iohn Birch</item>
+               <item>Francis B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnham</item>
+               <item>Thomas Twisden</item>
+               <item>Michael Livesey</item>
+               <item>Augustine Garland</item>
+               <item>Edward Ayscough</item>
+               <item>Iohn Broxolme</item>
+               <item>Thomas Lyster</item>
+               <item>Wil. Wray</item>
+               <item>Edward Rositer</item>
+               <item>Iohn Weaver</item>
+               <item>William Armyn</item>
+               <item>Henry Smith</item>
+               <item>Rich Houghton</item>
+               <item>Thomas Rel</item>
+               <item>Will Langton</item>
+               <item>Peter Brook</item>
+               <item>Alexander Rigby</item>
+               <item>Iohn Holcrost</item>
+               <item>Iohn Moore</item>
+               <item>Iohn Herbert</item>
+               <item>Henry Herbert</item>
+               <item>Thomas Trevor</item>
+               <item>Robert Napper</item>
+               <item>I<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Crew</item>
+               <item>Christopher Hatton</item>
+               <item>Edward Harvey</item>
+               <item>Iohn Hutchinson</item>
+               <item>Iervoise Pigot</item>
+               <item>Wiliam Lyster</item>
+               <item>Francis Thornhaugh</item>
+               <item>Iohn Palgrave</item>
+               <item>John Hobart</item>
+               <item>Iohn Atkyn</item>
+               <item>Thomas Toll</item>
+               <item>Edmund Hudson</item>
+               <item>Earl of Salisbury</item>
+               <item>Thomas Woodhouse</item>
+               <item>Iohn Holland</item>
+               <item>Iohn Spilman</item>
+               <item>Iohn Fenwick</item>
+               <item>Wil. Fenwick</item>
+               <item>Robert Ellison</item>
+               <item>Robert Scawin</item>
+               <item>Iohn Feinnes</item>
+               <item>George Fenwick</item>
+               <item>Iohn Whistler</item>
+               <item>Iohn Smith</item>
+               <item>Iohn Nixon</item>
+               <item>Nathaniel Feines</item>
+               <item>Iames Harrington</item>
+               <item>Thomas Waire</item>
+               <item>George Tompson</item>
+               <item>George Snelling</item>
+               <item>Iohn Evelin</item>
+               <item>Will. Mounson</item>
+               <item>George Evelin</item>
+               <item>Robert Parkhurst</item>
+               <item>George Abbot</item>
+               <item>Nicholas Stroughton</item>
+               <item>Thomas Sand:</item>
+               <item>William Owfield</item>
+               <item>Iohn Bowyer</item>
+               <item>Thomas Crompton</item>
+               <item>Michael Noble</item>
+               <item>Michael Bidolph</item>
+               <item>Iohn Swinfen</item>
+               <item>Edware Leigh</item>
+               <item>Sam. Te<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrick</item>
+               <item>George Abbot</item>
+               <item>Thomas Hunt</item>
+               <item>Robert Clives</item>
+               <item>Robert Charleton</item>
+               <item>Thomas Mackworth</item>
+               <item>Humph: Bridges</item>
+               <item>Esay Thomas</item>
+               <item>Richard Norton</item>
+               <item>Nicholas Love</item>
+               <item>William Udale</item>
+               <item>Henry Worsley</item>
+               <item>William Stephens</item>
+               <item>Iohn Barrington</item>
+               <item>Iohn Bulkley</item>
+               <item>Iohn Kemp</item>
+               <item>Rich. Edwards</item>
+               <item>Thomas Hussey</item>
+               <item>Philip Parker</item>
+               <item>Francis Bacon</item>
+               <item>Robert Brewster</item>
+               <item>Charles Legrosse</item>
+               <item>Squire Bence</item>
+               <item>Brampton Guidon</item>
+               <item>Morris Barrow</item>
+               <item>William Spring</item>
+               <item>George Horner</item>
+               <item>Iohn Harrington</item>
+               <item>Richard Aldworth</item>
+               <item>Iames Ash</item>
+               <item>Lissibone Long</item>
+               <item>Clement Walker</item>
+               <item>Iohn Palmer</item>
+               <item>Thomas Wroth</item>
+               <item>Robert Blake</item>
+               <item>Edward Popham</item>
+               <item>William Strikland</item>
+               <item>William Stroad</item>
+               <item>Thomas Grove</item>
+               <item>Will. Carent</item>
+               <item>Iohn Tempie</item>
+               <item>Hen<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Peck</item>
+               <item>Gregory Norton</item>
+               <item>William Marlow</item>
+               <item>Herbert Sprunget</item>
+               <item>Edward Apsley</item>
+               <item>Herbert Bond</item>
+               <item>Iohn Baker</item>
+               <pb n="4" facs="tcp:54225:3"/>
+               <item>Herbert Hay</item>
+               <item>Iames Bellingham</item>
+               <item>Henry Lawrence</item>
+               <item>Richard Ireton</item>
+               <item>Iames Herbert</item>
+               <item>Edmund Ludlow</item>
+               <item>Alexander Thistlethwaite</item>
+               <item>George How</item>
+               <item>Rowland Wilson, <hi>junior.</hi>
+               </item>
+               <item>Edward Baynton</item>
+               <item>Robert Nicholas</item>
+               <item>Robert Ienner</item>
+               <item>Edward Harvey</item>
+               <item>Iohn Eveling</item>
+               <item>Walter Long</item>
+               <item>Roger Kirham</item>
+               <item>Edward Massey</item>
+               <item>Charles Fleetwood</item>
+               <item>Iohn Wild</item>
+               <item>Iohn Coucher</item>
+               <item>Thomas Rainsburgh</item>
+               <item>Edward Wilde</item>
+               <item>Sam. Gardiner</item>
+               <item>Thomas Boughton</item>
+               <item>Iohn Barker</item>
+               <item>Godfrey Bosvile</item>
+               <item>Ferdinando Fairfax</item>
+               <item>Peregrine Pelham</item>
+               <item>Thomas Stockdale</item>
+               <item>Matthew Boynton</item>
+               <item>Luke Robinson</item>
+               <item>M les Moody</item>
+               <item>Iohn Burchiour</item>
+               <item>Charles Egerton</item>
+               <item>Thomas Challenor</item>
+               <item>Francis Thorpe</item>
+               <item>Thomas Mallaverer</item>
+               <item>Francis Lassells</item>
+               <item>Brian Stapleton</item>
+               <item>Iohn We<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thorpe</item>
+               <item>William Ayscough</item>
+               <item>Henry Arthington</item>
+               <item>William White</item>
+               <item>Henry Darley</item>
+               <item>Iohn Wastel</item>
+               <item>Richard Darley</item>
+               <item>Roger Gratwick</item>
+               <item>Samuel Got</item>
+               <item>Iohn Fagg</item>
+               <item>Edward Boyse</item>
+               <item>Iohn Dixwel</item>
+               <item>Char<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es Rich</item>
+               <item>Richard Price</item>
+               <item>Algeroon Sidney</item>
+               <item>Iohn Lloyd</item>
+               <item>Will Davis</item>
+               <item>William Foxwist</item>
+               <item>Simon Thelwal</item>
+               <item>Iohn Iones</item>
+               <item>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh Owen</item>
+               <item>Arthur Annesly</item>
+               <item>Henry Elsyng</item>
+               <item>Edward Birkhead</item>
+            </list>
+         </div>
+         <div type="list_of_members">
+            <list>
+               <head>The names of the Knights, Citizens, and Burgesses of the Parl. <hi>May 27. 1652.</hi>
+               </head>
+               <item>EDmund West</item>
+               <item>George Fleetwood</item>
+               <item>Iohn Do<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mer</item>
+               <item>Thomas Scot</item>
+               <item>Simon Maine</item>
+               <item>Thomas Harrinson</item>
+               <item>Rich. Ingoldsby</item>
+               <item>Bulstrode Whitlock</item>
+               <item>Henry Martin</item>
+               <item>Cornelius Holland</item>
+               <item>Daniel Blagrave</item>
+               <item>Hen<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Nevel</item>
+               <item>Edmund Dunch</item>
+               <item>Francis Rowse</item>
+               <item>William Sey</item>
+               <item>Iohn Trevor</item>
+               <item>Iohn M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yle</item>
+               <item>Robert Bennet</item>
+               <item>Iohn Carew</item>
+               <item>Iohn Feilder</item>
+               <item>Nicholas Gold</item>
+               <item>Benjamin Valentine</item>
+               <item>Iohn Hippesley</item>
+               <item>Francis Allen</item>
+               <item>Francis Russel</item>
+               <item>Iohn Lowrey</item>
+               <item>William Bruerton</item>
+               <item>Nathaniel Hallowes</item>
+               <item>Thomas Gell</item>
+               <item>Oliver St Iohn</item>
+               <item>Philip Skippon</item>
+               <item>Christopher Martin</item>
+               <item>Thomas Boon</item>
+               <item>Iohn Pyne</item>
+               <item>Dennis Bond</item>
+               <item>Edmund Prideaux</item>
+               <item>William Sydenham</item>
+               <item>Iohn Bond</item>
+               <item>Roger Hill</item>
+               <item>Iohn Bingham</item>
+               <item>Iohn Trenchard</item>
+               <item>Henry Mildmay</item>
+               <item>Tho Pu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</item>
+               <item>Iohn Lenthall</item>
+               <item>Na<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haniel Rich</item>
+               <item>Valentine Wanton</item>
+               <item>Abra: Burrell</item>
+               <item>Wil. Leman</item>
+               <item>Edmund Weaver</item>
+               <item>Robert Andrews</item>
+               <item>August. Skinner</item>
+               <item>Iohn Nut</item>
+               <item>Thomas Walsingham</item>
+               <item>Michael Livesey</item>
+               <item>August. Garland</item>
+               <item>Tho. Lyster</item>
+               <item>William Ellis</item>
+               <item>Iohn Weaver</item>
+               <item>Arthur Hasilrig</item>
+               <item>Henry Smith</item>
+               <item>Tho<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grey</item>
+               <item>Peter Temple</item>
+               <item>Thomas Fell</item>
+               <item>Peter Brooks</item>
+               <item>Isaac Pennington</item>
+               <item>Henry Herbert</item>
+               <item>Thomas Pury, <hi>junior</hi>
+               </item>
+               <item>Gilbert Pickering</item>
+               <item>Edward Harby</item>
+               <item>Iohn Hutchinson</item>
+               <item>Iervas Pigot</item>
+               <item>Gilbert Millington</item>
+               <item>Francis Pierpoint</item>
+               <item>Edward Nevill</item>
+               <item>Thomas Atkyn</item>
+               <item>Erasmus Earl</item>
+               <item>Earl of Salisbury</item>
+               <item>Thomas Toll</item>
+               <item>Miles Corbet</item>
+               <item>Thomas Woodhouse</item>
+               <item>William Fenwick</item>
+               <item>Thomas Withrington</item>
+               <item>George Fenwick</item>
+               <item>William Lenthal</item>
+               <item>Iames Harrington</item>
+               <item>Thomas Wayt</item>
+               <item>George Thomson</item>
+               <item>William Mounson</item>
+               <item>Iohn Goodwin</item>
+               <item>Thomas Crompton</item>
+               <item>Peter VVentworth</item>
+               <item>Humphrey Edwards</item>
+               <pb n="5" facs="tcp:54225:3"/>
+               <item>William Masham</item>
+               <item>John Corbet</item>
+               <item>John Lisle</item>
+               <item>Nicholas Love</item>
+               <item>Philip Lisle</item>
+               <item>William Lewes</item>
+               <item>William Stephens</item>
+               <item>William Heveningham</item>
+               <item>William Jepson</item>
+               <item>Thomas Jervoyse</item>
+               <item>Thomas Hussey</item>
+               <item>Robert Wallop</item>
+               <item>John Gurdon</item>
+               <item>Robert Brewster</item>
+               <item>Brumpton Gurdon, <hi>jun.</hi>
+               </item>
+               <item>Roger North</item>
+               <item>Richard Aldworth</item>
+               <item>Lucas Hodges</item>
+               <item>Alexander Popham</item>
+               <item>James Ash</item>
+               <item>Lyssibone Long</item>
+               <item>George Searl</item>
+               <item>Joseph Palmer</item>
+               <item>Peter Wroth</item>
+               <item>Robert Blake</item>
+               <item>Walter Strickland</item>
+               <item>Anthony Stapeley</item>
+               <item>William Cawley</item>
+               <item>Herbert Morley</item>
+               <item>James Temple</item>
+               <item>Robert Goodwin</item>
+               <item>John Baker</item>
+               <item>John Downs</item>
+               <item>Herbert Hay</item>
+               <item>Richard Salway</item>
+               <item>Edmond Ludlow</item>
+               <item>Mich: Oldsworth</item>
+               <item>John Dove</item>
+               <item>Henry Vane</item>
+               <item>Bulstrode Whitlock</item>
+               <item>George Reynolds</item>
+               <item>Edward Ash</item>
+               <item>John Ash</item>
+               <item>Hugh Rogers</item>
+               <item>Robert Nicholas</item>
+               <item>Edward Banton</item>
+               <item>John Danvers</item>
+               <item>Edward H<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvey</item>
+               <item>Robert Cecil</item>
+               <item>Richard Lucy</item>
+               <item>Philip Smith</item>
+               <item>Charles Fleetwood</item>
+               <item>John Wilde</item>
+               <item>Humphrey Salway</item>
+               <item>Edmund Wilde</item>
+               <item>John Barker</item>
+               <item>William Puresey</item>
+               <item>Godfrey Bosvile</item>
+               <item>William Allenson</item>
+               <item>Henry Vane</item>
+               <item>William Constable</item>
+               <item>John Stockdale</item>
+               <item>Lucas Robinson</item>
+               <item>John Anlanby</item>
+               <item>John Bourchier</item>
+               <item>Thomas Challenor</item>
+               <item>Francis Thorp</item>
+               <item>William Strickland</item>
+               <item>Thomas Malevoter</item>
+               <item>Francis Lassels</item>
+               <item>James Challenor</item>
+               <item>James Nelthorp</item>
+               <item>Henry Arthington</item>
+               <item>William White</item>
+               <item>Henry Darley</item>
+               <item>John Wastelt</item>
+               <item>Richard Darley</item>
+               <item>Henry Heyman</item>
+               <item>Thomas W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>strow</item>
+               <item>Benjamin West</item>
+               <item>John Dixwell</item>
+               <item>Philip E. of Pembroke</item>
+               <item>Algernoon Sidney</item>
+               <item>John Jones</item>
+            </list>
+         </div>
+         <div type="list_of_members">
+            <list>
+               <head>A List of the Knights and Burgesses to serve in Parliament <hi>Septemb. 3. 1654.</hi>
+               </head>
+               <item>Edmond Dunch</item>
+               <item>Robert Pye</item>
+               <item>John Southbay</item>
+               <item>George Purferoy</item>
+               <item>John Dun</item>
+               <item>Thomas Holt</item>
+               <item>Col: Hammond</item>
+               <item>William Butler</item>
+               <item>
+                  <hi>Mr.</hi> Bedford</item>
+               <item>Secretary Thurloe</item>
+               <item>John Harvey</item>
+               <item>Edward Wingate</item>
+               <item>John Neile</item>
+               <item>L. Com: Whitlock</item>
+               <item>Col. Ingolsby</item>
+               <item>Lord Com. Whitlock</item>
+               <item>Col. Fleetwood</item>
+               <item>Col. Richard Picket</item>
+               <item>
+                  <hi>Mr.</hi> Grinvile</item>
+               <item>
+                  <hi>Mr.</hi> Clapthorn</item>
+               <item>
+                  <hi>Mr.</hi> Francis Ingoldsby</item>
+               <item>
+                  <hi>Mr.</hi> Felps</item>
+               <item>Thomas Scot</item>
+               <item>Gen. Desborow</item>
+               <item>Col. Russel</item>
+               <item>Col. Robert Castle</item>
+               <item>
+                  <hi>Mr.</hi> Pickering</item>
+               <item>
+                  <hi>Mr.</hi> Tymms</item>
+               <item>Henry Cromwel</item>
+               <item>Lord <hi>Bradshaw</hi>
+               </item>
+               <pb n="6" facs="tcp:54225:4"/>
+               <item>George Booth</item>
+               <item>John Crew</item>
+               <item>Col. Brooks</item>
+               <item>Charls Walley</item>
+               <item>Anthony Rous</item>
+               <item>Col. Ceely</item>
+               <item>
+                  <hi>Mr.</hi> Gewen</item>
+               <item>Anthony Nichols</item>
+               <item>
+                  <hi>Mr.</hi> Carter</item>
+               <item>
+                  <hi>Mr.</hi> Lance</item>
+               <item>
+                  <hi>Mr.</hi> Biscawen</item>
+               <item>John Moyl</item>
+               <item>Robert Benn</item>
+               <item>Francis Rouse</item>
+               <item>John Fox</item>
+               <item>Anthony Rouse</item>
+               <item>Charls Howard</item>
+               <item>William Brisco</item>
+               <item>Thomas Fitch</item>
+               <item>Nathaniel Barron</item>
+               <item>Thomas Sanders</item>
+               <item>Edward Gill</item>
+               <item>John Gell</item>
+               <item>Gervis Bennet</item>
+               <item>Robert Rolle</item>
+               <item>Arthur Upton</item>
+               <item>Thomas Reynel</item>
+               <item>William Morris</item>
+               <item>John Haile</item>
+               <item>William Bastard</item>
+               <item>William Frey</item>
+               <item>Thomas Sanders</item>
+               <item>John Northcot</item>
+               <item>Henry Hatsel</item>
+               <item>John Quick</item>
+               <item>Thomas Bampfield</item>
+               <item>Thomas Gibbons</item>
+               <item>Christ<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pher Ceely</item>
+               <item>William Yoe</item>
+               <item>Thomas Boon</item>
+               <item>John Desbrow</item>
+               <item>John Doderige</item>
+               <item>Robert Shapcot</item>
+               <item>John Young</item>
+               <item>William Sidenham</item>
+               <item>John Bingham</item>
+               <item>Walter Earle</item>
+               <item>Iohn Fitz-Iames</item>
+               <item>Iohn Trenchard</item>
+               <item>Henry Henly</item>
+               <item>Iohn Whiteway</item>
+               <item>Dennis Bond</item>
+               <item>Edmund Prideaux</item>
+               <item>Anth. Ashly Cooper</item>
+               <item>Robert Lilburn</item>
+               <item>George Lilburn</item>
+               <item>Anthony Smith</item>
+               <item>Thomas Fairsax</item>
+               <item>Iohn Lambert</item>
+               <item>Henry Tempest</item>
+               <item>Iohn Bright</item>
+               <item>Edward Gill</item>
+               <item>Martin Lister</item>
+               <item>William Strickland</item>
+               <item>Walter Strickland</item>
+               <item>Hugh Bethel</item>
+               <item>Richard Robinson</item>
+               <item>George Evre</item>
+               <item>Francis Lassels</item>
+               <item>Thomas Harrinson</item>
+               <item>George Smithson</item>
+               <item>Thomas Widdrington</item>
+               <item>Thomas Dickenson</item>
+               <item>William Lister</item>
+               <item>Baron Thorp</item>
+               <item>Iohn Wildeman</item>
+               <item>Iohn Wastal</item>
+               <item>Adam Baynes</item>
+               <item>Ieremiah Bently</item>
+               <item>William Masham</item>
+               <item>Richard Everard</item>
+               <item>Thomas Honywood</item>
+               <item>Thomas Bows</item>
+               <item>Henry Mildmay</item>
+               <item>Thomas Cock</item>
+               <item>Carew Mildmay</item>
+               <item>D<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onisius Wakering</item>
+               <item>Edward Turner</item>
+               <item>Richard Cuts</item>
+               <item>Oliver Raymond</item>
+               <item>Herbert Pelham</item>
+               <item>Ioachim Matthews</item>
+               <item>Iohn Barkstead</item>
+               <item>Iohn Maidstone</item>
+               <item>George Barkley</item>
+               <item>Matthew Hayle</item>
+               <item>Iohn How</item>
+               <item>Christopher Guise</item>
+               <item>Silvanus Wood</item>
+               <item>William Lenthal</item>
+               <item>Thomas Pury</item>
+               <item>Anthony Ashly-Cooper</item>
+               <item>Iohn Stone</item>
+               <item>Iohn Skudamore</item>
+               <item>Iohn Pateshal</item>
+               <item>Iohn Flacket</item>
+               <item>Richard Reed</item>
+               <item>Bennet Hoskins</item>
+               <item>Iohn Birch</item>
+               <item>Henry Lawrence</item>
+               <item>Earl of Salisbury</item>
+               <item>Iohn Witterb<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge</item>
+               <item>Richard Lucy</item>
+               <item>Thomas Nichol</item>
+               <item>Albon Cox</item>
+               <item>Isaac Puller</item>
+               <item>Edward Mountague</item>
+               <item>Henry Cromwel</item>
+               <item>Stephen Phesant</item>
+               <item>Iohn Barnard</item>
+               <pb facs="tcp:54225:4"/>
+               <item>Iohn D<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xwel</item>
+               <item>Iohn Boys</item>
+               <item>Henry Vane, <hi>senior.</hi>
+               </item>
+               <item>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lph Weldon</item>
+               <item>Lambert Godfrey</item>
+               <item>Richard B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al</item>
+               <item>Henry Oxenden</item>
+               <item>Augustine Skinner</item>
+               <item>Da<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iel Shatterden</item>
+               <item>Iohn Scyliard</item>
+               <item>Iohn Banks</item>
+               <item>Thomas Scot</item>
+               <item>Francis Butcher</item>
+               <item>Iohn Parker</item>
+               <item>William Cullen</item>
+               <item>Thomas Kelsey</item>
+               <item>Augustine Garland</item>
+               <item>Richard Holland</item>
+               <item>Gilbert Ierland</item>
+               <item>William Ashurst</item>
+               <item>Richard Sandish</item>
+               <item>Thomas Birch</item>
+               <item>Charls Worsley</item>
+               <item>Thomas Beaumont</item>
+               <item>Hen. Earl of Stamford</item>
+               <item>The L. Grey of Grooby</item>
+               <item>Thomas Putchin</item>
+               <item>Arthur Hasilrig</item>
+               <item>William Stanly</item>
+               <item>Edward Rositer</item>
+               <item>Thomas Hall</item>
+               <item>Thomas Lister</item>
+               <item>Charls Hall</item>
+               <item>Francis Clinton</item>
+               <item>Thomas Hatcher</item>
+               <item>Wil. Woolley</item>
+               <item>Wil. Sav<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</item>
+               <item>Wil. Welby</item>
+               <item>Iohn Wray</item>
+               <item>Wil. Marshal</item>
+               <item>Original Peart</item>
+               <item>Sollicitor Ellis</item>
+               <item>William Berry</item>
+               <item>Iohn Weaver</item>
+               <item>William Wray</item>
+               <item>William Roberts</item>
+               <item>Iosias Berners</item>
+               <item>Iames Harrington</item>
+               <item>Edmund Harvey</item>
+               <item>Tho. Latham</item>
+               <item>Tho. Faulconbridge</item>
+               <item>Thomas Foot</item>
+               <item>William Steel</item>
+               <item>Thomas Adams</item>
+               <item>Iohn Langham</item>
+               <item>Samuel Avery</item>
+               <item>Andrew Riccard</item>
+               <item>Richard Cromwel</item>
+               <item>Philip Iones</item>
+               <item>Henry Herbert</item>
+               <item>Iohn Hobart</item>
+               <item>William Doyley</item>
+               <item>Ralph Hare</item>
+               <item>Thomas Weld</item>
+               <item>Robert Wilton</item>
+               <item>Thomas Sotherton</item>
+               <item>Philip Woodhouse</item>
+               <item>Robert Wood</item>
+               <item>Philip Bedingfield</item>
+               <item>Tobias Frere</item>
+               <item>Bernard Church</item>
+               <item>Iohn Hobart</item>
+               <item>Philip Skippon</item>
+               <item>Guybone Goddard</item>
+               <item>William Goff</item>
+               <item>Thomas Dun</item>
+               <item>Gilbert Pickering</item>
+               <item>Iohn Crew, <hi>sen</hi>
+               </item>
+               <item>Iohn Norwitch</item>
+               <item>Iohn Cleypool, <hi>sen.</hi>
+               </item>
+               <item>Iohn Dreyton</item>
+               <item>Thomas Brooks</item>
+               <item>Humph. Orme</item>
+               <item>Peter Whalley</item>
+               <item>Wil. Fenwick</item>
+               <item>Henry Ogle</item>
+               <item>Arthur Hasilrig</item>
+               <item>George Fenwick</item>
+               <item>Wil. Pierpoint</item>
+               <item>Edward Whalley</item>
+               <item>Edward Nevile</item>
+               <item>Charls White</item>
+               <item>Iames Chatwick</item>
+               <item>Iohn Mason</item>
+               <item>Robert <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enkinson</item>
+               <item>Charls F<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eetwood</item>
+               <item>Iames Whitlock</item>
+               <item>Nathaniel Fines</item>
+               <item>William Lenthal</item>
+               <item>
+                  <hi>Lord Comis.</hi> Whit<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock</item>
+               <item>Iohn Owen</item>
+               <item>Charls Fleetwood</item>
+               <item>William Shield</item>
+               <item>Edward Horseman</item>
+               <item>Humphrey Mackworth</item>
+               <item>Thomas Mitton</item>
+               <item>Robert Corbet</item>
+               <item>Philip Young</item>
+               <item>Richard Cheshire</item>
+               <item>Humph. Mackworth</item>
+               <item>William Crown</item>
+               <item>Iohn Ashton</item>
+               <item>Charls Woolsley</item>
+               <item>Thomas Crompton</item>
+               <item>Thomas Whitgrave</item>
+               <item>Thomas Minors</item>
+               <item>Iohn Bradshaw</item>
+               <item>Edward Kneeling</item>
+               <item>Iohn Horner</item>
+               <item>Iohn Buckland</item>
+               <pb n="8" facs="tcp:54225:5"/>
+               <item>Iohn Desbrow</item>
+               <item>Iohn Preston</item>
+               <item>Iohn Harrington</item>
+               <item>Iohn Ash</item>
+               <item>Charls Steynings</item>
+               <item>Robert Long</item>
+               <item>Robert Io<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</item>
+               <item>Thomas Hippisley</item>
+               <item>Samuel Perry</item>
+               <item>Thomas Gorges</item>
+               <item>Iohn Gorges</item>
+               <item>Alexander Popham</item>
+               <item>Lislebone Long</item>
+               <item>Robert Blake</item>
+               <item>Robert Aldworth</item>
+               <item>Miles Jackson</item>
+               <item>Richard Cromwell</item>
+               <item>Richard Norton</item>
+               <item>Richard Major</item>
+               <item>Iohn St. Barbe</item>
+               <item>Robert Wallop</item>
+               <item>Francis Rivet</item>
+               <item>Edward Hooper</item>
+               <item>Iohn Bulkley</item>
+               <item>Iohn Hyldesley</item>
+               <item>
+                  <hi>Lord Commis.</hi> Lisle</item>
+               <item>Nath. Whetham</item>
+               <item>Thomas Barnardiston</item>
+               <item>Wil. Spring</item>
+               <item>Tho. Beddingfield</item>
+               <item>William Blois</item>
+               <item>Iohn Gurdon</item>
+               <item>William Gibhert</item>
+               <item>Iohn Branling</item>
+               <item>Alexander Bence</item>
+               <item>Iohn Sicklemore</item>
+               <item>Thomas Bacon</item>
+               <item>Nathaniel Bacon</item>
+               <item>Francis Bacon</item>
+               <item>Samuel Moody</item>
+               <item>Iohn Clark</item>
+               <item>Rob. Brewster</item>
+               <item>Iohn Fothergill</item>
+               <item>Iohn Lambert</item>
+               <item>Sir Richard Anslow</item>
+               <item>Mr Drake</item>
+               <item>Mr Wood</item>
+               <item>Mr Anslow</item>
+               <item>Mr Holman</item>
+               <item>Samuel Hyland</item>
+               <item>Robert Walcup</item>
+               <item>Herbert Morley</item>
+               <item>Iohn Stapley</item>
+               <item>Iohn Faggs</item>
+               <item>Wil. Hay</item>
+               <item>Iohn Pelham</item>
+               <item>Anthony St<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pley</item>
+               <item>Thomas Pelham</item>
+               <item>Lord Dacre</item>
+               <item>Herbert Springet</item>
+               <item>Henry Pelham</item>
+               <item>Iohn Goodwin</item>
+               <item>Anthony Sherley</item>
+               <item>Henry Spelly</item>
+               <item>Herbert Morley</item>
+               <item>Christopher Lister</item>
+               <item>Ieremiah Bains</item>
+               <item>Richard Lucy</item>
+               <item>Thomas Willoughby</item>
+               <item>Richard Temple</item>
+               <item>Wil. Purefoy</item>
+               <item>Robert Beck</item>
+               <item>Richard Lucy</item>
+               <item>Thomas Rouse</item>
+               <item>Edward Pi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>Nicholas Lechmore</item>
+               <item>Iohn Bridges</item>
+               <item>Talbot Badger</item>
+               <item>Wil. Collins</item>
+               <item>Edward Elvines</item>
+               <item>Alexander Popham</item>
+               <item>Anth. Ashly Cooper</item>
+               <item>Thomas Grove</item>
+               <item>Alex. Thislethwaite</item>
+               <item>Francis Hollis</item>
+               <item>Iohn Earnely</item>
+               <item>William York</item>
+               <item>Iohn Norden</item>
+               <item>Iames Ash</item>
+               <item>Gabriel Martin</item>
+               <item>Edward Tooker</item>
+               <item>William Stephens</item>
+               <item>Charls Fleetwood</item>
+               <item>Edward Bainton</item>
+               <item>George Twisseton</item>
+               <item>Wil. Foxwist</item>
+               <item>Lord Herbers</item>
+               <item>Edmund Iones</item>
+               <item>Iames Philips</item>
+               <item>Ienkin Lloyd</item>
+               <item>Lord Claypool</item>
+               <item>Rowland Dawkins</item>
+               <item>Iohn Glyn</item>
+               <item>Thomas Madrin</item>
+               <item>Simon Thelwel</item>
+               <item>Iohn Carter</item>
+               <item>Iohn Trevor</item>
+               <item>Andrew Ellis</item>
+               <item>Philip Iones</item>
+               <item>Edmund Thomas</item>
+               <item>Iohn Price</item>
+               <item>Iohn Vaughan</item>
+               <item>Sir Iohn Price</item>
+               <item>Charls Lloyd</item>
+               <item>Erasmus Philips</item>
+               <item>Arthur Owen</item>
+               <item>Iohn Upton</item>
+               <item>Henry Williams</item>
+               <item>David Guin</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
